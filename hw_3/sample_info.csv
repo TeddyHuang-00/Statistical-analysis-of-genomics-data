@@ -1,0 +1,11 @@
+column_name,cell_type,replicate
+Day0_1_0,hESC R1,1
+Day0_2_0,hESC R2,2
+Day2_1_0,MES R1,1
+Day2_2_0,MES R2,2
+Day5_1_0,CP R1,1
+Day5_2_0,CP R2,2
+Day14_1_0,CM R1,1
+Day14_2_0,CM R2,2
+Fetal_27195_0,Fetal R1,1
+Fetal_27197_0,Fetal R2,1
